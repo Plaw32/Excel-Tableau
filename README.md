@@ -1,5 +1,5 @@
 # Excel-Tableau
-Data Cleaning and visualization from Excel to Tableau
+Data Cleaning and Visualization from Excel to Tableau
 
 Dataset: The Wealth of Nations
 
