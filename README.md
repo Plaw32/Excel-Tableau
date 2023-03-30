@@ -1,8 +1,10 @@
 # Excel-Tableau
 Data Cleaning and visualization from Excel to Tableau
 
+Dataset: The Wealth of Nations
+
 Aim:
-To Filter and visualize the World of Nations Dataset Excel and Create Dashboards using Tableau based on the Top 20 Countries.
+To Filter using Excel and visualize using Tableau based on the Top 20 Countries.
 
 Data: Rank, Country, GDP- per capita(PPP) and Year of Information
 
