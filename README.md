@@ -11,3 +11,5 @@ Data: Rank, Country, GDP- per capita(PPP) and Year of Information
 https://public.tableau.com/views/THEWEALTHOFNATIONS2/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 <img width="849" alt="image" src="https://user-images.githubusercontent.com/128412658/228854908-44a9ec05-844b-4c04-88e8-37ba26dc698d.png">
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/128412658/228859371-bcd0e2e3-083b-4df8-b4e8-72280dd9fd8d.png">
+
