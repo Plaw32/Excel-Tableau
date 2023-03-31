@@ -7,8 +7,6 @@ https://github.com/Plaw32/Excel-Tableau/blob/main/The%20Wealth%20of%20nations.xl
 AIM:
 To Filter using Excel and visualize using Tableau based on the Top 20 Countries.
 
-TECHNIQUES USED:
-
 DATA: Rank, Country, GDP- per capita(PPP) and Year of Information
 https://public.tableau.com/views/THEWEALTHOFNATIONS/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
